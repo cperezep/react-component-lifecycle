@@ -1,0 +1,35 @@
+{
+  "name": "react-hook-flow",
+  "version": "1.0.0",
+  "description": "React hook flow",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perezcr/react-hook-flow.git"
+  },
+  "keywords": [],
+  "author": "perezcr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perezcr/react-hook-flow/issues"
+  },
+  "homepage": "https://github.com/perezcr/react-hook-flow#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/preset-react": "^7.13.13",
+    "babel-loader": "^8.2.2",
+    "clean-webpack-plugin": "*",
+    "html-loader": "^2.1.2",
+    "html-webpack-plugin": "^5.3.1",
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
